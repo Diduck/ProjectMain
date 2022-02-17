@@ -35,12 +35,19 @@ body{
 
 
 
-/* FRIST BOX LEFT */
+/* FIRST BOX LEFT */
 
 .FirstBoxLEFT{
     padding-top: 50px;
     padding-left: 10%;
     width: 70%;
+    text-decoration: none;
+    color: white;
+}
+
+.FirstBoxLEFT:hover{
+    width: 72%;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
 }
 
 /* CONFIG FOR ALL BOX TEXT */
@@ -51,8 +58,6 @@ body{
     border-radius: 10px 10px 10px 10px;
     font-size: 20px;
     border: solid #3a485c 0.1px;
-
-
 }
 
 /* CONFIG FOR ALL BOX */
@@ -62,7 +67,13 @@ body{
     margin-top: -10px;
     padding-left: 10%;
     width: 70%;
-    
+    text-decoration: none;
+    color: white;
+}
+
+.NormalBoxLEFT:hover{
+    width: 72%;  
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
 }
 
 /* PRINCIPAL PAGE*/
