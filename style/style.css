@@ -35,15 +35,15 @@ body{
 
 
 
-/* BOX LEFT */
+/* FRIST BOX LEFT */
 
 .FirstBoxLEFT{
     padding-top: 50px;
     padding-left: 10%;
-    align-items: center;
     width: 70%;
 }
 
+/* CONFIG FOR ALL BOX TEXT */
 
 .BoxLEFT{
     color: white;
@@ -54,5 +54,15 @@ body{
     border: solid #3a485c 0.1px;
 
 
+}
+
+/* CONFIG FOR ALL BOX */
+
+.NormalBoxLEFT{
+
+    margin-top: -10px;
+    padding-left: 10%;
+    width: 70%;
+    
 }
 
