@@ -9,7 +9,7 @@ body{
 
 #LEFT{
     position: absolute;
-    height: 100%;
+    height: 200%;
     width: 22%;
     background-color: #0d1117;
     border-right: solid #3a485c 0.1px;
@@ -21,7 +21,7 @@ body{
 #TOP{
     position: absolute;
     width: 100%;
-    height: 6%;
+    height: 60px;
     background-color: #161b22;
     
 }
